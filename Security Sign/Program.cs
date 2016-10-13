@@ -55,7 +55,6 @@ namespace Security_Sign
                  * EC Diffie Hellman算法交换 1.对称密钥 2.初始化矢量IV
                  */
 
-
                 var aes = new AesCryptoServiceProvider();
                 aes.Key = symmKey;//提供密钥对
                 aes.GenerateIV();//生成初始化矢量 
