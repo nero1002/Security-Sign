@@ -1,0 +1,5 @@
+F:\WorkStation\Visual Studio 2012\Projects\Security Sign\Security Sign\bin\Debug\Security Sign.exe
+F:\WorkStation\Visual Studio 2012\Projects\Security Sign\Security Sign\bin\Debug\Security Sign.pdb
+F:\WorkStation\Visual Studio 2012\Projects\Security Sign\Security Sign\obj\Debug\Security Sign.csprojResolveAssemblyReference.cache
+F:\WorkStation\Visual Studio 2012\Projects\Security Sign\Security Sign\obj\Debug\Security Sign.exe
+F:\WorkStation\Visual Studio 2012\Projects\Security Sign\Security Sign\obj\Debug\Security Sign.pdb
